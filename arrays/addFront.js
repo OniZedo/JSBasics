@@ -3,7 +3,7 @@
 
 function addFront(arr, num) {
   arr.unshift(num);
-  return(arr)
+  return arr;
 }
 
 // DO NOT DELETE
